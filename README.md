@@ -8,7 +8,7 @@
 
 ## ③DEMO
 
-- https://tamachan99.sakura.ne.jp/kadai01/read.php
+- https://tamachan99.sakura.ne.jp/kadai01/index.php
 
 ## ④工夫した点・こだわった点
 
